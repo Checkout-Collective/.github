@@ -1,6 +1,10 @@
 ## Ticket #
 <!-- Link to Jira / Linear / Notion ticket -->
 
+## Related Ticket(s) (Optional)
+<!-- Add any related links (QA ticket, bug ticket, follow-up). Delete if none. -->
+- 
+
 ---
 
 ## Description
